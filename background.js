@@ -1,0 +1,1 @@
+﻿const response = await fetch('https://gist.githubusercontent.com/pdcmedia5-blip/b3c4987778051e8ffe6d5a8879a12a18/raw/scamlist.json');
